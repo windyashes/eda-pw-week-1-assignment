@@ -1,0 +1,19 @@
+-Here we go I actually made a text file instead of a directory this time. I accidentally did mkdir instead of touch last time. Time to rewrite the notes I took!
+
+
+-Open the assignment folder in vscode
+-Shouldn't move any files or edit any outside of the assignment folder.
+-Commented instructions should be inside of the folders I need to edit. I can do as much as I want in the files, but the commented instructions are necessary.
+
+-Make sure to constantly check and test work
+-When ready to save, go back to terminal and in the assignment folder type:
+git add .
+git commit -m "[insert commit message here]"
+
+-For the 'helloWorld.js' file, I will need to source it into my 'index.html' file.
+
+-Use git to upload the work to github
+-Submit a link to my assigment repository through the student portal
+
+-Don't forget to submit this weeek's discussion answer!!! I know you have good things to say you just need to finish writing them all out because there's a lot.
+
