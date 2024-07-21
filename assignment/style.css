@@ -3,7 +3,7 @@ header {background-color: maroon;}
 /* Add a fun background color to the main element */
 main {background-color: peachpuff;}
 /* Align the h1 containing your name in the center of the header*/
-h1 {text-align: center; color: lightgrey;}
+h1 {text-align: center; color: rgb(234, 233, 233);}
 /* Make your p tag a different color and italic */
 p {color: rgb(92, 91, 91); font-style: italic;}
 /* Put a border around your image */
