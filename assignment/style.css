@@ -1,9 +1,9 @@
 /* Add a background color to the header element */
 header {background-color: maroon;}
 /* Add a fun background color to the main element */
-main {background-color: rgb(255, 221, 143);}
+main {background-color: peachpuff;}
 /* Align the h1 containing your name in the center of the header*/
-h1 {text-align: center;}
+h1 {text-align: center; color: lightgrey;}
 /* Make your p tag a different color and italic */
 p {color: darkgrey; font-style: italic;}
 /* Put a border around your image */
@@ -13,4 +13,4 @@ li {font-family: 'Courier New', Courier, monospace;}
 /* Add a background color to the footer element */
 footer {background-color: peachpuff;}
 
-body {color: black; background-color: white;}
+body {color: black; background-color: lightgoldenrodyellow;}
